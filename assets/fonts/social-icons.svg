@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2013 by original authors @ fontello.com</metadata>
+<defs>
+<font id="social-icons" horiz-adv-x="1000" >
+<font-face font-family="social-icons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="facebook" unicode="&#xe801;" d="m380 589l-70 0c-54 0-60-33-60-66l0-52l130 0l-12-158l-118 0l0-348l-159 0l0 348l-91 0l0 158l91 0l0 117c0 95 54 147 159 147l130 0l0-146z" horiz-adv-x="380" />
+<glyph glyph-name="twitter-bird" unicode="&#xe800;" d="m715 659l169 0l0-21l-133-85c12-80-53-116-53-116s50-138-49-253c-115-133-240-85-260-78c-20 5-19-9-19-9c24-96 0-130-52-135c-58-5-48 87-48 87c-99-87-131-38-124-6c13 49 75 108 75 108c-181 0-221 135-221 135s88-23 148-10c62 12 126 60 148 158c20 89 117 125 117 125c0 137 111 179 176 179c106 0 126-79 126-79z m-157-53c0-28 22-50 50-50s50 22 50 50s-23 50-50 50s-50-23-50-50z" horiz-adv-x="884" />
+<glyph glyph-name="gplus" unicode="&#xe802;" d="m0 32q0 87 89 155t215 68l54 0q-42 40-42 86q0 29 16 58q-10-1-29-1q-104 0-170 65t-66 160q0 91 82 159t187 68l310 0l-69-50l-98 0q47-18 74-68t26-111q0-93-88-162q-37-29-48-46t-11-42q0-19 27-48t54-49q61-43 85-88t23-113q0-90-82-157t-222-66q-133 0-225 50t-92 132z m112 33q0-69 59-118t145-48q119 0 173 44t53 117q0 19-4 32q-3 11-7 21t-12 19t-14 16t-19 16t-21 15t-25 18t-26 17q-39 12-77 12q-90 1-157-47t-68-114z m66 559q11-79 61-136t109-58q59-2 94 52t25 133t-59 134t-110 57t-95-51t-25-131z m555-24l0 50l200 0l0 200l50 0l0-200l201 0l0-50l-201 0l0-201l-50 0l0 201l-200 0z" horiz-adv-x="1184" />
+</font>
+</defs>
+</svg>
